@@ -4,6 +4,9 @@ date: 2020-10-22T12:33:51+01:00
 summary: Training artificial neural networks on simple tasks to make inferences about the visual system. 
 weight: 20
 
+image:
+  preview_only: true
+
 ---
 
 I have used the [Tensor Flow](https://www.tensorflow.org/) library developed by Google to train several artificial neural networks in categorisation tasks. The most developed of these is a network trained to distinguish whether noisy gabor patches were vertical or horizontal, pictured below.

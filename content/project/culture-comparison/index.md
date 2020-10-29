@@ -7,9 +7,7 @@ categories: []
 date: 2020-10-28T11:16:13Z
 
 image:
-  caption: ""
-  focal_point: "smart"
-  preview_only: false
+  preview_only: true
 
 ---
 
