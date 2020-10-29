@@ -5,6 +5,7 @@ authors: []
 tags: [big data, teaching]
 categories: []
 date: 2020-10-28T11:47:49Z
+weight: 40
 
 image:
   preview_only: true

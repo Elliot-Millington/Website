@@ -2,7 +2,7 @@
 title: Psephography
 summary: Using data visualisation to explore and present political geography to the public.
 date: "2020-10-23T00:00:00Z"
-weight: 10
+weight: 60
 
 image:
   preview_only: true
